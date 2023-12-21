@@ -110,14 +110,14 @@ Create a `docker-compose.yml` file with the following specifications:
 
 Your project will be evaluated using automated tests by analyzing the configuration files. Your repository must contain the following files:
 
-.
-|-- docker-compose.yml
-|-- schema.sql
-|-- poll
-|   |-- Dockerfile
-|-- result
-|   |-- Dockerfile
-`-- worker
-    |-- Dockerfile
+.<br/>
+|-- docker-compose.yml<br/>
+|-- schema.sql<br/>
+|-- poll<br/>
+|   |-- Dockerfile<br/>
+|-- result<br/>
+|   |-- Dockerfile<br/>
+`-- worker<br/>
+    |-- Dockerfile<br/>
 
 The directories `poll`, `result`, and `worker` contain the provided applications from the intranet.
