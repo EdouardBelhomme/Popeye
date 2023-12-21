@@ -117,7 +117,7 @@ Your project will be evaluated using automated tests by analyzing the configurat
 |   |-- Dockerfile<br/>
 |-- result<br/>
 |   |-- Dockerfile<br/>
-`-- worker<br/>
+|-- worker<br/>
     |-- Dockerfile<br/>
 
 The directories `poll`, `result`, and `worker` contain the provided applications from the intranet.
